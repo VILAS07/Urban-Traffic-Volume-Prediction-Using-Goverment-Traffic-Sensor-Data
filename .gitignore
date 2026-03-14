@@ -1,0 +1,8 @@
+models/
+*.pkl
+*.h5
+*.pt
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+*.csv
