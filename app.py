@@ -8,7 +8,7 @@ Built on an XGBoost model trained on 2,73,913 records
 from 1,967 traffic stations.
 """
 
-import streamlit as 
+import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
